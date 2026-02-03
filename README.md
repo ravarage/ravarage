@@ -35,11 +35,8 @@ Backend Developer at IQ Online Company
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravyar-sarbast)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ravarage.xyz/)
 
-## 📊 GitHub Stats
-
-![RavaRage's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravarage&show_icons=true&theme=radical&count_private=true)
 
 [//]: # (## 🏆 GitHub Trophies)
 
 [//]: # ()
-[//]: # (![GitHub Trophies]&#40;https://github-profile-trophy.vercel.app/?username=ravarage&theme=darkhub&no-frame=true&margin-w=15&#41;)
+![GitHub Trophies](https://github-profile-trophy-tawny.vercel.app/?username=ravarage&theme=dracula)
