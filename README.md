@@ -1,42 +1,24 @@
-# 👋 Hi, I'm RavaRage (OldRava)
+# Ravyar Tahir
+**Senior Backend Engineer** | Go · Python · AI/RAG Infrastructure
 
-Senior Backend Developer at iQ Group | Golang & Python Expert | Performance Geek & Code Quality Advocate | Open-Source Contributor
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravyar-sarbast)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://ravarage.xyz/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ravyar.tahir@ravarage.xyz)
 
-## 🚀 Current Role
+I architect high-performance distributed systems in Go and Python. My focus is on real-time infrastructure, low-latency data pipelines, and productionizing ML-integrated backends.
 
-Backend Developer at IQ Online Company
+### Engineering Focus
+- **AI/RAG Infrastructure:** Vector Databases (Milvus), Custom Embeddings, Re-ranking Models, gRPC.
+- **Real-Time Systems:** High-throughput WebSockets, Streaming SSE, Concurrent Connection Management.
+- **Cloud & Infra:** Cloud Server Management (Linode/Akamai), AWS (EC2 GPU), Terraform, Docker, Prometheus/Grafana.
 
-## 💼 Skills
+### Featured Open Source
+**[go-arabic-reshaper](https://github.com/ravarage/go-arabic-reshaper)**
+A high-performance Go library for Unicode-accurate Arabic, Kurdish, Persian, and Urdu text rendering in PDFs and images. Built to solve critical text-shaping bugs in backend document generation pipelines.
 
-- Web Development 🌐
-- Image Processing 🖼️
-- Computer Vision 👁️
-
-## 🛠️ Tech Stack
-
-- Go 🧠
-- Python 🐍
-- Java ☕
-- Arduino 🛠️
-- JavaScript (basic) 🌟
-
-## 📚 Currently Learning
-
-- Machine Learning 🤖
-- Deep Learning 🌌
-
-## 🌟 Open Source Contributions
-
-- [python-arabic-reshaper](https://github.com/mpcabd/python-arabic-reshaper) ✍️
-- [go-arabic-reshaper](https://github.com/ravarage/go-arabic-reshaper) 📜
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravyar-sarbast)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ravarage.xyz/)
-
-
-[//]: # (## 🏆 GitHub Trophies)
-
-[//]: # ()
-![GitHub Trophies](https://github-profile-trophy-tawny.vercel.app/?username=ravarage&theme=dracula)
+### Core Tech Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
