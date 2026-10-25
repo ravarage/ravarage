@@ -16,6 +16,8 @@ Go, Python, Java, Rust, PostgreSQL, Redis, ClickHouse, Milvus, Docker, Kubernete
 
 ## Projects
 
+**[DerpFest for redwood](https://github.com/ravarage/derpfest-redwood)** — I'm the official [DerpFest](https://github.com/DerpFest-AOSP) maintainer for the POCO X5 Pro 5G / Redmi Note 12 Pro Speed (redwood). I maintain the Android 17 [device](https://github.com/ravarage/android_device_xiaomi_redwood) and [vendor](https://github.com/ravarage/android_vendor_xiaomi_redwood) trees, build and sign the ROM, and ship over-the-air updates through DerpFest's official update list.
+
 **[go-arabic-reshaper](https://github.com/ravarage/go-arabic-reshaper)** — a Go library for Arabic text reshaping and bidi rendering, for terminals, PDFs, and other places that don't handle Arabic script shaping natively.
 
 ## Background
